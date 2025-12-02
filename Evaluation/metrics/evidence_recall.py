@@ -1,9 +1,9 @@
-import json
+from typing import List, Dict
+
 import numpy as np
-from typing import List, Dict, Optional
-from langchain_core.language_models import BaseLanguageModel
 from langchain_core.callbacks import Callbacks
-import re
+from langchain_core.language_models import BaseLanguageModel
+
 from Evaluation.metrics.utils import JSONHandler
 
 EVIDENCE_RECALL_PROMPT = """
@@ -59,23 +59,28 @@ async def compute_evidence_recall(
     reference evidence are supported by the context.
     """
     # Handle edge cases
-    
-    context_str = "\n".join(contexts)
+    if isinstance(contexts, list):
+        context_str = "\n".join(contexts)
+    elif isinstance(contexts, str):
+        context_str = contexts
+    else:
+        raise ValueError("contexts must be a list of strings or a single string.")
+
+    # No context means no attribution
     if not context_str.strip():
-        return 0.0  # No context means no attribution
-    
-    # Format prompt with actual data
+        return 0.0
+
     prompt = EVIDENCE_RECALL_PROMPT.format(
         question=question,
-        context=context_str[:20000],  # Truncate long contexts
-        evidence=reference_evidence  # Truncate long answers
+        context=context_str[:20000],  # Truncate long contexts # TODO : smarter truncation
+        evidence=reference_evidence,  # Truncate long answers TODO how?
     )
-    
+
     # Get LLM classification with retries
     classifications = await _get_classifications(
         prompt, llm, callbacks, max_retries
     )
-    
+
     # Calculate recall score
     if classifications:
         attributed = [c["attributed"] for c in classifications]
@@ -94,10 +99,9 @@ async def _get_classifications(
     """
     parser = JSONHandler(max_retries=max_retries, self_healing=self_healing)
 
-    for _ in range(max_retries + 1):
+    for _ in range(max_retries):
         try:
             response = await llm.ainvoke(prompt, config={"callbacks": callbacks})
-
             classifications = await parser.parse_with_fallbacks(
                 response.content,
                 key="classifications",
