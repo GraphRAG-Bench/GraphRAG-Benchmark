@@ -1,41 +1,29 @@
-#Copy this to the root of the original project and run with "dstack apply"
-
 type: task
-name: fast-graphrag-ollama-test
+name: fast-graphrag-qwen3-medical-novel
 
 repos:
   - https://github.com/yishanyuan/25Fall-GraphRAG-Bench
 
 python: 3.12
 
-ide: pycharm
-
 env:
   - OPENAI_BASE_URL=http://127.0.0.1:11434/v1
   - OPENAI_API_KEY=ollama
   - MODEL_NAME=qwen3:8b
+  - EMBED_MODEL=nomic-embed-text
 
 commands:
-  # 1) Install Ollama in the remote container
   - curl -fsSL https://ollama.ai/install.sh | sh
-
-  # 2) Start the Ollama server in the background
   - nohup ollama serve > /tmp/ollama.log 2>&1 &
-
-  # 3) Give the server time to start
   - sleep 60
-
-  # 4) Pull the Qwen3 8B model on dstack's machine
   - ollama pull qwen3:8b
-
-  # 5) Install fast-graphrag
+  - ollama pull nomic-embed-text
   - cd /workflow
-  - uv pip install -e ".[benchmarks]"
-
-  # 6) Run the test script against the local Ollama server
-  - cd /workflow/benchmarks
-  - python testrun_fast-graphrag_ollama.py -d 2wikimultihopqa -n 20 -c
-  - python testrun_fast-graphrag_ollama.py -d 2wikimultihopqa -n 20 -b
+  - uv pip install fast-graphrag datasets python-dotenv tqdm sentence-transformers pyarrow openai
+  - cd /workflow
+  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset medical --base_dir ./Examples/graphrag_qwen3_8b_medical
+  - cd /workflow
+  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset novel --base_dir ./Examples/graphrag_qwen3_8b_novel
 
 resources:
   gpu: 24GB..80GB:1
@@ -43,4 +31,3 @@ resources:
   memory: 48GB..
   disk: 100GB
   shm_size: 24GB
-
