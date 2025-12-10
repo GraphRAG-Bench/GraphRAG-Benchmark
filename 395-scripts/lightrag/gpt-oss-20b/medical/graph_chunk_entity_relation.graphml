@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Basal Cell Skin Cancer">
+      <data key="d0">Basal Cell Skin Cancer</data>
+      <data key="d1">concept</data>
+      <data key="d2">Basal cell skin cancer, also known as basal cell carcinoma (BCC), is the most common type of skin cancer.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="Basal Cell Carcinoma (BCC)">
+      <data key="d0">Basal Cell Carcinoma (BCC)</data>
+      <data key="d1">concept</data>
+      <data key="d2">Basal cell carcinoma (BCC) is another name for basal cell skin cancer.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="United States">
+      <data key="d0">United States</data>
+      <data key="d1">location</data>
+      <data key="d2">United States is the country where approximately 3 million cases of basal cell skin cancer are diagnosed each year.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="Surgery">
+      <data key="d0">Surgery</data>
+      <data key="d1">method</data>
+      <data key="d2">Surgery is the primary treatment method involving removal of the cancerous tissue.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="Basal Cells">
+      <data key="d0">Basal Cells</data>
+      <data key="d1">concept</data>
+      <data key="d2">Basal cells are cells in the lower epidermis that constantly divide and can become abnormal in basal cell skin cancer.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="Sun">
+      <data key="d0">Sun</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Sun is the source of ultraviolet (UV) radiation that contributes to the development of basal cell skin cancer.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="Tanning Beds">
+      <data key="d0">Tanning Beds</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Tanning beds are devices that emit UV radiation and are a risk factor for basal cell skin cancer.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="UV Radiation">
+      <data key="d0">UV Radiation</data>
+      <data key="d1">concept</data>
+      <data key="d2">UV radiation is a form of electromagnetic radiation emitted by the sun and tanning beds that can damage DNA.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174832</data>
+      <data key="d6" />
+    </node>
+    <node id="DNA">
+      <data key="d0">DNA</data>
+      <data key="d1">concept</data>
+      <data key="d2">DNA contains the genetic information that regulates cell growth and can be damaged by UV radiation.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174836</data>
+      <data key="d6" />
+    </node>
+    <node id="Skin Lesions">
+      <data key="d0">Skin Lesions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Skin lesions are abnormalities on the skin, including basal cell lesions, commonly found in basal cell skin cancer.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174836</data>
+      <data key="d6" />
+    </node>
+    <node id="NCCN Guidelines for Patients">
+      <data key="d0">NCCN Guidelines for Patients</data>
+      <data key="d1">content</data>
+      <data key="d2">NCCN Guidelines for Patients provide information and recommendations for skin cancer diagnosis and treatment.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174836</data>
+      <data key="d6" />
+    </node>
+    <node id="NCCN Patient Guides for Cancer app">
+      <data key="d0">NCCN Patient Guides for Cancer app</data>
+      <data key="d1">content</data>
+      <data key="d2">NCCN Patient Guides for Cancer app offers mobile access to cancer guidelines and information.</data>
+      <data key="d3">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174836</data>
+      <data key="d6" />
+    </node>
+    <node id="Metastasis">
+      <data key="d0">Metastasis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Metastasis refers to the spread of cancer cells to distant tissues; basal cell skin cancer rarely metastasizes.</data>
+      <data key="d3">chunk-1e6fbd9fd01500ff937693c67511938b&lt;SEP&gt;chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763174836</data>
+      <data key="d6" />
+    </node>
+    <edge source="Basal Cell Skin Cancer" target="Basal Cells">
+      <data key="d7">1.0</data>
+      <data key="d8">Basal cells become abnormal, leading to the development of basal cell skin cancer.</data>
+      <data key="d9">caused by</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="Surgery">
+      <data key="d7">1.0</data>
+      <data key="d8">Surgery removes the cancerous tissue in basal cell skin cancer.</data>
+      <data key="d9">treated by</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="Metastasis">
+      <data key="d7">1.0</data>
+      <data key="d8">Basal cell skin cancer rarely metastasizes to distant tissues.</data>
+      <data key="d9">rarely</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="Sun">
+      <data key="d7">1.0</data>
+      <data key="d8">Sunlight exposure is a major risk factor for developing basal cell skin cancer.</data>
+      <data key="d9">risk factor</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="Tanning Beds">
+      <data key="d7">1.0</data>
+      <data key="d8">Tanning beds emit UV radiation, which is a risk factor for basal cell skin cancer.</data>
+      <data key="d9">risk factor</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="United States">
+      <data key="d7">1.0</data>
+      <data key="d8">Approximately 3 million cases of basal cell skin cancer are diagnosed in the United States each year.</data>
+      <data key="d9">case location</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="NCCN Guidelines for Patients">
+      <data key="d7">1.0</data>
+      <data key="d8">NCCN Guidelines provide recommendations for diagnosis and treatment of skin cancer.</data>
+      <data key="d9">information source</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cell Skin Cancer" target="Basal Cell Carcinoma (BCC)">
+      <data key="d7">1.0</data>
+      <data key="d8">Basal cell carcinoma (BCC) is another name for basal cell skin cancer.</data>
+      <data key="d9">alias</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cells" target="UV Radiation">
+      <data key="d7">1.0</data>
+      <data key="d8">Exposure to UV radiation from the sun or tanning beds increases the risk of abnormal basal cell proliferation.</data>
+      <data key="d9">exposure</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Basal Cells" target="DNA">
+      <data key="d7">1.0</data>
+      <data key="d8">DNA controls basal cell growth and division.</data>
+      <data key="d9">regulated by</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+    <edge source="UV Radiation" target="DNA">
+      <data key="d7">1.0</data>
+      <data key="d8">UV radiation damages DNA, leading to mutations that can initiate basal cell skin cancer.</data>
+      <data key="d9">damages</data>
+      <data key="d10">chunk-39f3cd789208df83917f77c3f615fa1c</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763174837</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

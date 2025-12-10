@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Online Distributed Proofreading Team">
+      <data key="d0">Online Distributed Proofreading Team</data>
+      <data key="d1">organization</data>
+      <data key="d2">Online Distributed Proofreading Team is a group of volunteers who worked on the text.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="PGDP">
+      <data key="d0">PGDP</data>
+      <data key="d1">data</data>
+      <data key="d2">http://www.pgdp.net is a website that hosts the text.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="Phaedrus">
+      <data key="d0">Phaedrus</data>
+      <data key="d1">content</data>
+      <data key="d2">Phaedrus is a fictional character referenced in the text.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="Theophraustus">
+      <data key="d0">Theophraustus</data>
+      <data key="d1">person</data>
+      <data key="d2">Theophraustus is the subject of the book 'Impressions of Theophraustus such George Eliot'.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="George Eliot">
+      <data key="d0">George Eliot</data>
+      <data key="d1">person</data>
+      <data key="d2">George Eliot is an English author referenced in the book title.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="Impressions of Theophraustus such George Eliot">
+      <data key="d0">Impressions of Theophraustus such George Eliot</data>
+      <data key="d1">content</data>
+      <data key="d2">The book 'Impressions of Theophraustus such George Eliot' contains the analysis of Theophraustus.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="Second Edition">
+      <data key="d0">Second Edition</data>
+      <data key="d1">concept</data>
+      <data key="d2">Second Edition refers to the second edition of the book 'Impressions of Theophraustus such George Eliot'.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="MDCCCLXXIX">
+      <data key="d0">MDCCCLXXIX</data>
+      <data key="d1">concept</data>
+      <data key="d2">MDCCCLXXIX is the year 1879, when the book was published.</data>
+      <data key="d3">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763233759</data>
+      <data key="d6" />
+    </node>
+    <node id="British Army Officers">
+      <data key="d0">British Army Officers</data>
+      <data key="d1">person</data>
+      <data key="d2">British Army Officers are a group of military personnel from Britain who appeared benevolent in comparison to others.</data>
+      <data key="d3">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763234134</data>
+      <data key="d6" />
+    </node>
+    <node id="Canadians">
+      <data key="d0">Canadians</data>
+      <data key="d1">person</data>
+      <data key="d2">Canadians are individuals who left the country and were provided facilities for doing so.</data>
+      <data key="d3">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763234134</data>
+      <data key="d6" />
+    </node>
+    <node id="The Country">
+      <data key="d0">The Country</data>
+      <data key="d1">location</data>
+      <data key="d2">The Country is the place from which Canadians departed.</data>
+      <data key="d3">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763234134</data>
+      <data key="d6" />
+    </node>
+    <node id="Good Feeling">
+      <data key="d0">Good Feeling</data>
+      <data key="d1">concept</data>
+      <data key="d2">Good Feeling represents a positive sentiment or goodwill evidenced between the British Army Officers and Canadians.</data>
+      <data key="d3">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763234134</data>
+      <data key="d6" />
+    </node>
+    <node id="Canada">
+      <data key="d0">Canada</data>
+      <data key="d1">location</data>
+      <data key="d2">Canada is the country from which Canadians departed and received facilities to support their departure.</data>
+      <data key="d3">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763234134</data>
+      <data key="d6" />
+    </node>
+    <node id="David Widger">
+      <data key="d0">David Widger</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16&lt;SEP&gt;chunk-650560b2a9ea29fbf3aa979bc0ee51b3</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="Henry T. Riley">
+      <data key="d0">Henry T. Riley</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="Ovid">
+      <data key="d0">Ovid</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="Cupid">
+      <data key="d0">Cupid</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="Love">
+      <data key="d0">Love</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Creature</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="Venus">
+      <data key="d0">Venus</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235032</data>
+      <data key="d6" />
+    </node>
+    <node id="associated_with">
+      <data key="d0">associated_with</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="embodies">
+      <data key="d0">embodies</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="personified_by">
+      <data key="d0">personified_by</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Creature</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="authored">
+      <data key="d0">authored</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="translated">
+      <data key="d0">translated</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="produced">
+      <data key="d0">produced</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16&lt;SEP&gt;chunk-650560b2a9ea29fbf3aa979bc0ee51b3</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="Minerva">
+      <data key="d0">Minerva</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="used">
+      <data key="d0">used</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Organization</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="Ceres">
+      <data key="d0">Ceres</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="Heliconian Tempe">
+      <data key="d0">Heliconian Tempe</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Location</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="located_on">
+      <data key="d0">located_on</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Location</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="Phoebus">
+      <data key="d0">Phoebus</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235036</data>
+      <data key="d6" />
+    </node>
+    <node id="wrote_about">
+      <data key="d0">wrote_about</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Creature&lt;SEP&gt;Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="wrote_notes_on">
+      <data key="d0">wrote_notes_on</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Mars">
+      <data key="d0">Mars</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Naso">
+      <data key="d0">Naso</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="wrote">
+      <data key="d0">wrote</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Five Books">
+      <data key="d0">Five Books</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Person</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Internet Archive">
+      <data key="d0">Internet Archive</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="The Muses">
+      <data key="d0">The Muses</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="by">
+      <data key="d0">by</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Person</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="hosts">
+      <data key="d0">hosts</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Content</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Pierian Maids">
+      <data key="d0">Pierian Maids</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Quivered Virgin">
+      <data key="d0">Quivered Virgin</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="Yellow-haired Minerva">
+      <data key="d0">Yellow-haired Minerva</data>
+      <data key="d3">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d2">Concept</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763235037</data>
+      <data key="d6" />
+    </node>
+    <node id="We">
+      <data key="d0">We</data>
+      <data key="d1">person</data>
+      <data key="d2">We refers to the narrator group who will avoid large hotels, study life simply, and seek happiness in a humble, feminine manner.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <node id="Huge Hotels">
+      <data key="d0">Huge Hotels</data>
+      <data key="d1">location</data>
+      <data key="d2">Huge Hotels are large lodging establishments that the narrator group intends to avoid.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <node id="Fashionable Towns">
+      <data key="d0">Fashionable Towns</data>
+      <data key="d1">location</data>
+      <data key="d2">Fashionable Towns are stylish urban areas that the narrator group intends to avoid.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <node id="Life">
+      <data key="d0">Life</data>
+      <data key="d1">concept</data>
+      <data key="d2">Life refers to human existence and experiences the narrator group wishes to study in simplicity.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <node id="Simplicity">
+      <data key="d0">Simplicity</data>
+      <data key="d1">concept</data>
+      <data key="d2">Simplicity denotes a simple, uncomplicated way of living that the narrator group considers essential for studying life.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <node id="Humble Feminine Way">
+      <data key="d0">Humble Feminine Way</data>
+      <data key="d1">concept</data>
+      <data key="d2">Humble Feminine Way represents a modest, womanly approach to achieving happiness that the narrator group aspires to follow.</data>
+      <data key="d3">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1764480089</data>
+      <data key="d6" />
+    </node>
+    <edge source="Online Distributed Proofreading Team" target="PGDP">
+      <data key="d7">1.0</data>
+      <data key="d8">Online Distributed Proofreading Team collaborates with PGDP to host the text.</data>
+      <data key="d9">collaboration,hosting,publishing</data>
+      <data key="d10">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763233763</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Theophraustus" target="Impressions of Theophraustus such George Eliot">
+      <data key="d7">1.0</data>
+      <data key="d8">Theophraustus is the main subject of the book 'Impressions of Theophraustus such George Eliot'.</data>
+      <data key="d9">subject</data>
+      <data key="d10">chunk-19f6c2696cd9675a9b99245f45a8ba69</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763233763</data>
+      <data key="d13" />
+    </edge>
+    <edge source="British Army Officers" target="Canadians">
+      <data key="d7">1.0</data>
+      <data key="d8">A good feeling and goodwill existed between the British Army Officers and Canadians.</data>
+      <data key="d9">good feeling,goodwill</data>
+      <data key="d10">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763234137</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Canadians" target="The Country">
+      <data key="d7">2.0</data>
+      <data key="d8">Canadians left the Country, indicating a departure of Canadians from that location.&lt;SEP&gt;Canadians were afforded facilities within the Country to support their departure.</data>
+      <data key="d9">departure,facilities,leaving,provision</data>
+      <data key="d10">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763234137</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Canadians" target="Canada">
+      <data key="d7">2.0</data>
+      <data key="d8">Canadians were afforded facilities in Canada to support their departure.&lt;SEP&gt;Canadians left Canada, indicating a departure.</data>
+      <data key="d9">departure,facilities,leaving,provision</data>
+      <data key="d10">chunk-2c70ef0a32fa22e45294abfbc634d163</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763234138</data>
+      <data key="d13" />
+    </edge>
+    <edge source="David Widger" target="produced">
+      <data key="d7">3.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Amours By Ovid Literally Translated into English Prose,Book,The Amores; or,with Copious Notes</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16&lt;SEP&gt;chunk-650560b2a9ea29fbf3aa979bc0ee51b3</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764479170</data>
+      <data key="d13" />
+    </edge>
+    <edge source="David Widger" target="used">
+      <data key="d7">1.0</data>
+      <data key="d8">Organization</data>
+      <data key="d9">Internet Archive</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Henry T. Riley" target="translated">
+      <data key="d7">1.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Amours By Ovid Literally Translated into English Prose,The Amores; or,with Copious Notes</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Henry T. Riley" target="wrote_notes_on">
+      <data key="d7">1.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Amours By Ovid Literally Translated into English Prose,The Amores; or,with Copious Notes</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ovid" target="authored">
+      <data key="d7">1.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Amours By Ovid Literally Translated into English Prose,The Amores; or,with Copious Notes</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ovid" target="wrote_about">
+      <data key="d7">2.0</data>
+      <data key="d8">Creature&lt;SEP&gt;Concept</data>
+      <data key="d9">Cupid,Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Cupid" target="embodies">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Cupid" target="associated_with">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Love" target="personified_by">
+      <data key="d7">1.0</data>
+      <data key="d8">Creature</data>
+      <data key="d9">Cupid</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Venus" target="associated_with">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Minerva">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Ceres">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Phoebus">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Mars">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="The Muses">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Pierian Maids">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Quivered Virgin">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="associated_with" target="Yellow-haired Minerva">
+      <data key="d7">1.0</data>
+      <data key="d8">Concept</data>
+      <data key="d9">Love</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235038</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Heliconian Tempe" target="located_on">
+      <data key="d7">1.0</data>
+      <data key="d8">Location</data>
+      <data key="d9">Helicon</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235036</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Naso" target="wrote">
+      <data key="d7">1.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Five Books</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Five Books" target="by">
+      <data key="d7">1.0</data>
+      <data key="d8">Person</data>
+      <data key="d9">Naso</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Internet Archive" target="hosts">
+      <data key="d7">1.0</data>
+      <data key="d8">Content</data>
+      <data key="d9">Digital Content</data>
+      <data key="d10">chunk-5d85d5d8978d3903ac99aed535ec4b16</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763235037</data>
+      <data key="d13" />
+    </edge>
+    <edge source="We" target="Huge Hotels">
+      <data key="d7">1.0</data>
+      <data key="d8">We will avoid all huge hotels.</data>
+      <data key="d9">avoidance,location avoidance</data>
+      <data key="d10">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764480092</data>
+      <data key="d13" />
+    </edge>
+    <edge source="We" target="Fashionable Towns">
+      <data key="d7">1.0</data>
+      <data key="d8">We will avoid all fashionable towns.</data>
+      <data key="d9">avoidance,location avoidance</data>
+      <data key="d10">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764480092</data>
+      <data key="d13" />
+    </edge>
+    <edge source="We" target="Life">
+      <data key="d7">1.0</data>
+      <data key="d8">We will study life in its simplicity.</data>
+      <data key="d9">simplicity,study</data>
+      <data key="d10">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764480093</data>
+      <data key="d13" />
+    </edge>
+    <edge source="We" target="Humble Feminine Way">
+      <data key="d7">1.0</data>
+      <data key="d8">We will make ourselves happy in our own humble, feminine way.</data>
+      <data key="d9">happiness,lifestyle</data>
+      <data key="d10">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764480093</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Life" target="Simplicity">
+      <data key="d7">1.0</data>
+      <data key="d8">We will study life in its simplicity.</data>
+      <data key="d9">attribute,simplicity</data>
+      <data key="d10">chunk-10ed18d5cb54edb6e3fdc56a063d4b01</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1764480093</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

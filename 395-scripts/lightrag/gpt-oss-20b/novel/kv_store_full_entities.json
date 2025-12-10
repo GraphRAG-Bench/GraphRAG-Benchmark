@@ -1,0 +1,84 @@
+{
+  "doc-19f6c2696cd9675a9b99245f45a8ba69": {
+    "entity_names": [
+      "George Eliot",
+      "Phaedrus",
+      "Theophraustus",
+      "PGDP",
+      "Online Distributed Proofreading Team",
+      "Second Edition",
+      "Impressions of Theophraustus such George Eliot",
+      "MDCCCLXXIX"
+    ],
+    "count": 8,
+    "create_time": 1763233764,
+    "update_time": 1763233764,
+    "_id": "doc-19f6c2696cd9675a9b99245f45a8ba69"
+  },
+  "doc-1bf07e388f7722706a8335b78e129d7f": {
+    "entity_names": [
+      "Good Feeling",
+      "Canada",
+      "Canadians",
+      "British Army Officers",
+      "The Country"
+    ],
+    "count": 5,
+    "create_time": 1763234138,
+    "update_time": 1763234138,
+    "_id": "doc-1bf07e388f7722706a8335b78e129d7f"
+  },
+  "doc-5d85d5d8978d3903ac99aed535ec4b16": {
+    "entity_names": [
+      "Ceres",
+      "authored",
+      "Minerva",
+      "used",
+      "Naso",
+      "Henry T. Riley",
+      "Internet Archive",
+      "The Muses",
+      "translated",
+      "hosts",
+      "associated_with",
+      "by",
+      "Quivered Virgin",
+      "Heliconian Tempe",
+      "wrote_about",
+      "Yellow-haired Minerva",
+      "wrote_notes_on",
+      "Mars",
+      "Ovid",
+      "produced",
+      "Love",
+      "David Widger",
+      "Five Books",
+      "Venus",
+      "Phoebus",
+      "Pierian Maids",
+      "embodies",
+      "located_on",
+      "wrote",
+      "Cupid",
+      "personified_by"
+    ],
+    "count": 31,
+    "create_time": 1763235038,
+    "update_time": 1763235038,
+    "_id": "doc-5d85d5d8978d3903ac99aed535ec4b16"
+  },
+  "doc-a3b5bccc4dced391ec07256cf2f5c2f6": {
+    "entity_names": [
+      "Humble Feminine Way",
+      "Simplicity",
+      "Life",
+      "We",
+      "Fashionable Towns",
+      "Huge Hotels"
+    ],
+    "count": 6,
+    "create_time": 1764480093,
+    "update_time": 1764480093,
+    "_id": "doc-a3b5bccc4dced391ec07256cf2f5c2f6"
+  }
+}

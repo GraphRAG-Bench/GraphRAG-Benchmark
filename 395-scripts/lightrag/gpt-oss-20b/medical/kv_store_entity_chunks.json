@@ -1,0 +1,283 @@
+{
+  "Basal Cell Skin Cancer": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174832,
+    "_id": "Basal Cell Skin Cancer"
+  },
+  "Basal Cell Carcinoma": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763091578,
+    "update_time": 1763091578,
+    "_id": "Basal Cell Carcinoma"
+  },
+  "Skin Cancer": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763091578,
+    "update_time": 1763091578,
+    "_id": "Skin Cancer"
+  },
+  "Basal Cells": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174832,
+    "_id": "Basal Cells"
+  },
+  "Epidermis": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094226,
+    "_id": "Epidermis"
+  },
+  "Dermis": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094226,
+    "_id": "Dermis"
+  },
+  "Hypodermis": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094226,
+    "_id": "Hypodermis"
+  },
+  "Squamous Cells": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094227,
+    "_id": "Squamous Cells"
+  },
+  "Skin Lesion": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094226,
+    "_id": "Skin Lesion"
+  },
+  "United States": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174832,
+    "_id": "United States"
+  },
+  "Surgery": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174832,
+    "_id": "Surgery"
+  },
+  "Early Detection": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763091579,
+    "update_time": 1763091579,
+    "_id": "Early Detection"
+  },
+  "Metastasis": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174836,
+    "_id": "Metastasis"
+  },
+  "Sun Exposure": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094226,
+    "_id": "Sun Exposure"
+  },
+  "Skin": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "update_time": 1763094227,
+    "_id": "Skin"
+  },
+  "3 Million Cases": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763091579,
+    "update_time": 1763091579,
+    "_id": "3 Million Cases"
+  },
+  "Basal Cell Carcinoma (BCC)": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b",
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 2,
+    "update_time": 1763174832,
+    "_id": "Basal Cell Carcinoma (BCC)"
+  },
+  "Basal Cell Lesion": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763094226,
+    "update_time": 1763094226,
+    "_id": "Basal Cell Lesion"
+  },
+  "Melanin": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763094227,
+    "update_time": 1763094227,
+    "_id": "Melanin"
+  },
+  "3 Million Cases": {
+    "chunk_ids": [
+      "chunk-1e6fbd9fd01500ff937693c67511938b"
+    ],
+    "count": 1,
+    "create_time": 1763094227,
+    "update_time": 1763094227,
+    "_id": "3 Million Cases"
+  },
+  "Id": {
+    "chunk_ids": [
+      "chunk-b80bb7740288fda1f201890375a60c8f"
+    ],
+    "count": 1,
+    "create_time": 1763095962,
+    "update_time": 1763095962,
+    "_id": "Id"
+  },
+  "100m Sprint Record": {
+    "chunk_ids": [
+      "chunk-1cb251ec0d568de6a929b520c4aed8d1"
+    ],
+    "count": 1,
+    "create_time": 1763095985,
+    "update_time": 1763095985,
+    "_id": "100m Sprint Record"
+  },
+  "World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-1cb251ec0d568de6a929b520c4aed8d1"
+    ],
+    "count": 1,
+    "create_time": 1763095986,
+    "update_time": 1763095986,
+    "_id": "World Athletics Championship"
+  },
+  "UV radiation": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763173802,
+    "update_time": 1763173802,
+    "_id": "UV radiation"
+  },
+  "is caused by": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763173806,
+    "update_time": 1763173806,
+    "_id": "is caused by"
+  },
+  "Sun": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174832,
+    "update_time": 1763174832,
+    "_id": "Sun"
+  },
+  "Tanning Beds": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174832,
+    "update_time": 1763174832,
+    "_id": "Tanning Beds"
+  },
+  "UV Radiation": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174832,
+    "update_time": 1763174832,
+    "_id": "UV Radiation"
+  },
+  "DNA": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174836,
+    "update_time": 1763174836,
+    "_id": "DNA"
+  },
+  "Skin Lesions": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174836,
+    "update_time": 1763174836,
+    "_id": "Skin Lesions"
+  },
+  "NCCN Guidelines for Patients": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174836,
+    "update_time": 1763174836,
+    "_id": "NCCN Guidelines for Patients"
+  },
+  "NCCN Patient Guides for Cancer app": {
+    "chunk_ids": [
+      "chunk-39f3cd789208df83917f77c3f615fa1c"
+    ],
+    "count": 1,
+    "create_time": 1763174836,
+    "update_time": 1763174836,
+    "_id": "NCCN Patient Guides for Cancer app"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "doc-1cb251ec0d568de6a929b520c4aed8d1": {
+    "relation_pairs": [
+      [
+        "100m Sprint Record",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1763095986,
+    "update_time": 1763095986,
+    "_id": "doc-1cb251ec0d568de6a929b520c4aed8d1"
+  },
+  "doc-39f3cd789208df83917f77c3f615fa1c": {
+    "relation_pairs": [
+      [
+        "Basal Cell Skin Cancer",
+        "United States"
+      ],
+      [
+        "Basal Cell Carcinoma (BCC)",
+        "Basal Cell Skin Cancer"
+      ],
+      [
+        "Basal Cells",
+        "DNA"
+      ],
+      [
+        "DNA",
+        "UV Radiation"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Sun"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Basal Cells",
+        "UV Radiation"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Basal Cells"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Metastasis"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Tanning Beds"
+      ]
+    ],
+    "count": 11,
+    "update_time": 1763174838,
+    "_id": "doc-39f3cd789208df83917f77c3f615fa1c"
+  }
+}

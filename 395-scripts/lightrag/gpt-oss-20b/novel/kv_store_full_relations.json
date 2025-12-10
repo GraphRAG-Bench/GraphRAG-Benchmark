@@ -1,0 +1,162 @@
+{
+  "doc-19f6c2696cd9675a9b99245f45a8ba69": {
+    "relation_pairs": [
+      [
+        "Impressions of Theophraustus such George Eliot",
+        "Theophraustus"
+      ],
+      [
+        "Online Distributed Proofreading Team",
+        "PGDP"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1763233764,
+    "update_time": 1763233764,
+    "_id": "doc-19f6c2696cd9675a9b99245f45a8ba69"
+  },
+  "doc-1bf07e388f7722706a8335b78e129d7f": {
+    "relation_pairs": [
+      [
+        "British Army Officers",
+        "Canadians"
+      ],
+      [
+        "Canada",
+        "Canadians"
+      ],
+      [
+        "Canadians",
+        "The Country"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1763234138,
+    "update_time": 1763234138,
+    "_id": "doc-1bf07e388f7722706a8335b78e129d7f"
+  },
+  "doc-5d85d5d8978d3903ac99aed535ec4b16": {
+    "relation_pairs": [
+      [
+        "Five Books",
+        "by"
+      ],
+      [
+        "Cupid",
+        "embodies"
+      ],
+      [
+        "Mars",
+        "associated_with"
+      ],
+      [
+        "Ceres",
+        "associated_with"
+      ],
+      [
+        "Naso",
+        "wrote"
+      ],
+      [
+        "Henry T. Riley",
+        "wrote_notes_on"
+      ],
+      [
+        "Ovid",
+        "wrote_about"
+      ],
+      [
+        "Ovid",
+        "authored"
+      ],
+      [
+        "Yellow-haired Minerva",
+        "associated_with"
+      ],
+      [
+        "Henry T. Riley",
+        "translated"
+      ],
+      [
+        "The Muses",
+        "associated_with"
+      ],
+      [
+        "Pierian Maids",
+        "associated_with"
+      ],
+      [
+        "Venus",
+        "associated_with"
+      ],
+      [
+        "Quivered Virgin",
+        "associated_with"
+      ],
+      [
+        "Cupid",
+        "associated_with"
+      ],
+      [
+        "David Widger",
+        "used"
+      ],
+      [
+        "Love",
+        "personified_by"
+      ],
+      [
+        "Internet Archive",
+        "hosts"
+      ],
+      [
+        "David Widger",
+        "produced"
+      ],
+      [
+        "Phoebus",
+        "associated_with"
+      ],
+      [
+        "Heliconian Tempe",
+        "located_on"
+      ],
+      [
+        "Minerva",
+        "associated_with"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1763235038,
+    "update_time": 1763235038,
+    "_id": "doc-5d85d5d8978d3903ac99aed535ec4b16"
+  },
+  "doc-a3b5bccc4dced391ec07256cf2f5c2f6": {
+    "relation_pairs": [
+      [
+        "Life",
+        "We"
+      ],
+      [
+        "Life",
+        "Simplicity"
+      ],
+      [
+        "Huge Hotels",
+        "We"
+      ],
+      [
+        "Humble Feminine Way",
+        "We"
+      ],
+      [
+        "Fashionable Towns",
+        "We"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1764480093,
+    "update_time": 1764480093,
+    "_id": "doc-a3b5bccc4dced391ec07256cf2f5c2f6"
+  }
+}
