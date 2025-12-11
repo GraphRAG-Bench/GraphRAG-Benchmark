@@ -1,1 +1,12 @@
 .DS_Store
+
+# local dev (chris)
+.venv/
+results/
+**/__pycache__/
+*.pyc
+Examples/hipporag2_workspace/
+Examples/hipporag2_workspace_5nano_Medical/
+hipporag_processing.log
+.python-version
+.dstack.yml
