@@ -1,0 +1,19 @@
+{
+  "Fact Retrieval": {
+    "rouge_score": 0.3549165827187562,
+    "answer_correctness": 0.5231365329060075
+  },
+  "Complex Reasoning": {
+    "rouge_score": 0.26097598056383264,
+    "answer_correctness": 0.5898528204704501
+  },
+  "Contextual Summarize": {
+    "answer_correctness": 0.6991710601300604,
+    "coverage_score": 0.5446869488536155
+  },
+  "Creative Generation": {
+    "answer_correctness": 0.5948425509356531,
+    "coverage_score": 0.3223389355742297,
+    "faithfulness": 0.0
+  }
+}
