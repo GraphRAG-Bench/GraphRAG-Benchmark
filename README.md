@@ -22,8 +22,12 @@
 
 <h2 id="news">🎉 News</h2>
 
-- **[2026-01-26]** Our [GraphRAG Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) is accepted by ICLR’26.
-- **[2026-01-26]** Our [LinearRAG](https://github.com/DEEP-PolyU/LinearRAG) is accepted by ICLR’26.
+- **[2026-04-07]** Our **[ProbeRAG](https://github.com/LinfengGao/ProbeRAG.git)** for RAG faithfulness is accepted by ACL'26.
+- **[2026-04-07]** Our **[BAPO](https://github.com/Liushiyu-0709/BAPO-Reliable-Search.git)** for reliable agentic search is accepted by ACL'26.
+- **[2026-04-07]** Our **[LegalGraphRAG](https://github.com/XMUDeepLIT/LegalGraphRAG.git)** for reliable legal reasoning is accepted by ACL'26.
+- **[2026-04-07]** Our **[LogicPoison](https://github.com/Jord8061/logicPoison.git)**, a GraphRAG attack model, is accepted by ACL'26.
+- **[2026-01-26]** Our **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)** for efficient GraphRAG is accepted by ICLR’26.
+- **[2026-01-26]** Our **[GraphRAG Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)** is accepted by ICLR’26.
 - **[2025-10-27]** We release [LinearRAG](https://github.com/DEEP-PolyU/LinearRAG), a relation-free method for efficient GraphRAG.
 - **[2025-08-24]** We support [DIGIMON](https://github.com/JayLZhou/GraphRAG) for flexible benchmarking across GraphRAG models.
 - **[2025-05-25]** We release the [GraphRAG Benchmark](https://graphrag-bench.github.io) for evaluating GraphRAG models.
