@@ -37,7 +37,7 @@
 
 📃 **Please [cite our paper](#-citation)** if you find our survey or repository helpful!
 
-📫 **Contact us via emails:** `{xiangzhishang,wuchuanjie}@stu.xmu.edu.cn`, `qinggang.zhang@polyu.edu.hk`
+📫 **Contact us via emails:** `{xiangzhishang,wuchuanjie}@stu.xmu.edu.cn`, `qinggangzhang@jlu.edu.cn`
 
 
 <h2 id="about">📖 About</h2>
