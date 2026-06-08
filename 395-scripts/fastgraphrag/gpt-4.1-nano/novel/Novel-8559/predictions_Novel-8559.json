@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "Novel-49d93af8",
+    "question": "In Schreiber's apparatus for revivifying bone-black, what is the construction material of the retorts?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The retorts in Schreiber's apparatus for revivifying bone-black are constructed from cast-iron.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "cast-iron"
+  },
+  {
+    "id": "Novel-aacc81ea",
+    "question": "In the bone-black revivification apparatus, what is placed in the hopper during operation?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The hopper in the bone-black revivification apparatus contains bone-black during operation.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "bone-black"
+  },
+  {
+    "id": "Novel-7ed82690",
+    "question": "In the machinery described for processing bone-black, what components are mounted on the vertical shaft?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Helices are mounted on the vertical shaft in the machinery for processing bone-black.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "helices"
+  },
+  {
+    "id": "Novel-4be4d916",
+    "question": "In Schreiber's apparatus for revivifying bone-black, what component does the drier include as part of its construction?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The drier in Schreiber's apparatus includes a furnace as part of its construction.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "furnace"
+  },
+  {
+    "id": "Novel-2e05b3f3",
+    "question": "What is the main function of Schreiber's apparatus in the industrial process described?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Schreiber's apparatus is employed for the primary purpose of revivifying bone-black.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "revivifying bone-black"
+  },
+  {
+    "id": "Novel-f3e4ed65",
+    "question": "In the described revivification furnace for bone-black, what material are the blocks, which encase the retorts, made of?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The blocks that encase the retorts in the revivification furnace for bone-black are made of refractory clay.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "refractory clay"
+  },
+  {
+    "id": "Novel-26ce4d1c",
+    "question": "During water purification as discussed in the narrative, from what substance is air dissolved?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Air is dissolved from carbonic acid during water purification.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "carbonic acid"
+  },
+  {
+    "id": "Novel-0ab293c2",
+    "question": "What feature is present in the furnace used for revivifying bone-black, as described in the text?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The furnace used for revivifying bone-black has a fire-place.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "fire-place"
+  },
+  {
+    "id": "Novel-2d90241b",
+    "question": "In the process of bone-black regeneration, what material does the furnace serve to revivify?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The furnace serves to revivify bone-black in the process of bone-black regeneration.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "bone-black"
+  },
+  {
+    "id": "Novel-44af5ecf",
+    "question": "Within Schreiber's apparatus for bone-black revivification, what does the mechanism actuate as part of the process workflow?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The mechanism within Schreiber's apparatus actuates the elevator as part of the process workflow.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The mechanism actuates the elevator."
+  },
+  {
+    "id": "Novel-9b28edf9",
+    "question": "In the revivification furnace described for processing bone-black, what component contains the coke fire?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fire-place contains the coke fire in the revivification furnace for processing bone-black.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The fire-place contains the coke fire."
+  },
+  {
+    "id": "Novel-a6c76790",
+    "question": "In the context of gas analysis using Dr. Buente's burette, the graduation is part of which instrument?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The graduation is part of the burette in the context of gas analysis using Dr. Buente's burette.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The graduation is part of the burette."
+  },
+  {
+    "id": "Novel-43e5c06b",
+    "question": "When analyzing furnace gases in the described setup, with what device is the burette commonly used?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The burette is used with the aspirator.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The burette is used with the aspirator."
+  },
+  {
+    "id": "Novel-6a4086f1",
+    "question": "During the apple jelly manufacturing process described, what happens to the pomace residues after processing?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Pomace residues drop into the troughs after being processed.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Pomace drops into the troughs."
+  },
+  {
+    "id": "Novel-c79a2c52",
+    "question": "Baking chambers, as described in the context of refractory product manufacturing, are part of what type of furnaces?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Baking chambers are part of annular furnaces.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Baking chambers are part of annular furnaces."
+  },
+  {
+    "id": "Novel-cf21d241",
+    "question": "In the described rainwater collection system, what does the shunt divert during the process of obtaining clean water?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The shunt is used to divert the stream during the process of obtaining clean water.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The shunt is used to divert the stream."
+  },
+  {
+    "id": "Novel-4392ee71",
+    "question": "Who is credited with devising the burette used for gas analysis as described in the text?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Dr. Buente devised the burette used for gas analysis.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Dr. Buente devised the burette."
+  },
+  {
+    "id": "Novel-1e353d15",
+    "question": "In Dr. Buente's apparatus for gas analysis, to which component does the funnel belong?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The funnel is part of the burette.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The funnel is part of the burette."
+  },
+  {
+    "id": "Novel-fb8d613d",
+    "question": "Within the apparatus for baking refractory products, the smoking furnace is part of what larger system?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The smoking furnace is part of the gas furnace.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The smoking furnace is part of the gas furnace."
+  },
+  {
+    "id": "Novel-08098847",
+    "question": "In the described setup for gas analysis, what is the burette connected to during the measurement process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The burette is connected to the vessel during the measurement process.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The burette is connected to the vessel."
+  },
+  {
+    "id": "Novel-cd57cf13",
+    "question": "In the steelworks process described, how is the output of the Bessemer pit utilized?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The output of the Bessemer pit is used for soaking pits.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The output of the Bessemer pit is used for soaking pits."
+  },
+  {
+    "id": "Novel-d33f62e1",
+    "question": "According to the steelworks layout described, what is the next destination for ingots after casting?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Ingot cranes transfer the ingots to F after casting.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Ingot cranes transfer the ingots to F."
+  },
+  {
+    "id": "Novel-665744e5",
+    "question": "During the steel processing operation, what medium is used in the soaking pit for ingots?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "An ingot soaks in gas.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "An ingot soaks in gas."
+  },
+  {
+    "id": "Novel-682c2e93",
+    "question": "In their steel production process, where does the Darlington Steel and Iron Company treat ingots?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Darlington Steel and Iron Company is treating ingots in soaking pits.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Darlington Steel and Iron Company is treating ingots in soaking pits."
+  },
+  {
+    "id": "Novel-fcc037cd",
+    "question": "In the described steelworks, what is the function of the component labeled 'F' in the handling of ingots?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Component F transfers the ingots to soaking pits.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "F transfers the ingots to soaking pits."
+  },
+  {
+    "id": "Novel-2000a7a9",
+    "question": "According to the description of gas composition in the soaking pit process, what is one of the components that gas is composed of?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Gas is composed of hydrogen.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Gas is composed of hydrogen."
+  },
+  {
+    "id": "Novel-0dfddbfc",
+    "question": "What material is used in the construction of soaking pits for steel ingots?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Brickwork is used to build soaking pits.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Brickwork is used to build soaking pits."
+  },
+  {
+    "id": "Novel-135a7719",
+    "question": "In the steelmaking process described, what causes the loss of steel that the soaking pit method seeks to avoid?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The heating furnace causes loss of steel.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The heating furnace causes loss of steel."
+  },
+  {
+    "id": "Novel-33eeb504",
+    "question": "In the gas engine system described, how is gas regulation achieved to ensure proper operation?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Gas is regulated by the regulating and stop valve.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Gas is regulated by the regulating and stop valve."
+  },
+  {
+    "id": "Novel-72938445",
+    "question": "In the apple jelly factory described in the report, what is stored in the bins before processing begins?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The bins hold apples.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The bins hold apples."
+  },
+  {
+    "id": "Novel-2c05b904",
+    "question": "During the process of digestion as discussed in the narrative, which part of the body adjusts to changes in food?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The digestive apparatus adapts to food.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The digestive apparatus adapts to food."
+  },
+  {
+    "id": "Novel-7e444f04",
+    "question": "In the context of Mississippi River improvements near St. Louis, what material is used to revet the banks for reinforcement?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Banks are revetted with stone.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Banks are revetted with stone."
+  },
+  {
+    "id": "Novel-4329a9ca",
+    "question": "In the industrial processes described in the text, what is the primary role of coal?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Coal is primarily used as fuel.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Coal is used as fuel."
+  },
+  {
+    "id": "Novel-36b41c81",
+    "question": "In the manufacture of agglomerated artificial fuel, what is combined with coal dust to form the final product?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Coal dust is mixed with grains to create the final product.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Coal dust is mixed with grains."
+  },
+  {
+    "id": "Novel-f4ba3ee9",
+    "question": "According to the narrative's enumeration, which states are included as part of the United States in the context discussed?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The United States includes Alabama.; The United States includes Tennessee.; The United States includes Mississippi.; The United States includes Louisiana.; The United States includes Virginia.; The United States includes West Virginia.; The United States includes Kentucky.; The United States includes North Carolina.; The United States includes Missouri.; The United States includes New York.; The United States includes South Carolina.; The United States includes Georgia.; The United States includes New Jersey.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The United States includes Alabama, Tennessee, Mississippi, Louisiana, Virginia, West Virginia, Kentucky, North Carolina, Missouri, New York, South Carolina, Georgia, and New Jersey."
+  },
+  {
+    "id": "Novel-ff8f3b0c",
+    "question": "Where are the apple jelly factories mentioned in the report located within New York State?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Apple jelly factories are located in Oswego County.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Apple jelly factories are in Oswego County."
+  },
+  {
+    "id": "Novel-10ad8346",
+    "question": "In the apple jelly factory described, what does the saw mill supply for the operation of the boiler furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The saw mill provides fuel for the boiler furnace.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The saw mill provides fuel for the boiler furnace."
+  },
+  {
+    "id": "Novel-67178f3b",
+    "question": "What is the city location of MUNN & CO., the publishers cited in the report?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "MUNN & CO. is located in New York.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "MUNN & CO. is located in New York."
+  },
+  {
+    "id": "Novel-1676fe51",
+    "question": "In the described apple jelly factory, what aspect of production does Salmon Creek provide power for?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Salmon Creek affords power for the factory.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Salmon Creek affords power for the factory."
+  },
+  {
+    "id": "Novel-ce8ad4ae",
+    "question": "According to the text's discussion of building stone supply, in which region is granite particularly abundant?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Granite is abundant in New England.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Granite is abundant in New England."
+  },
+  {
+    "id": "Novel-8c555476",
+    "question": "What type of quarries are found in Washington County, New York, as described in the narrative about building materials?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Washington County has sandstone quarries.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Washington County has sandstone quarries in New York."
+  },
+  {
+    "id": "Novel-3c025533",
+    "question": "In the context of surveying as discussed in the text, for what purpose is the determination of latitude needed?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The determination of latitude is needed for the determination of true meridian.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Latitude is needed for determination of true meridian."
+  },
+  {
+    "id": "Novel-f4b744e6",
+    "question": "Within the apple jelly factory setup described, what is the role of the boiler furnace in the manufacturing process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The boiler furnace is connected to the evaporating department.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The boiler furnace is connected to the evaporating department."
+  },
+  {
+    "id": "Novel-9671d373",
+    "question": "Who is the individual that reports on the apple jelly factories in Oswego County as mentioned in the narrative?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Dewitt C. Peck reports on apple jelly factories.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Dewitt C. Peck reports on apple jelly factories."
+  },
+  {
+    "id": "Novel-63709f72",
+    "question": "Who is credited with the first scientific description of the Maidenhair tree, Gingkgo biloba, according to the text?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Gingkgo biloba was described by Kaempfer.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Gingkgo biloba was described by Kaempfer."
+  },
+  {
+    "id": "Novel-1068c5b7",
+    "question": "According to the text's discussion of grape cultivation, what factor is identified as having a significant effect on grapes?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Grapes are affected by climate.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Grapes are affected by climate."
+  },
+  {
+    "id": "Novel-e21aceef",
+    "question": "Who accompanied Charles Blagden in the hot-house during the experiment on human resistance to heat?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Dr. Solander remained with Charles Blagden in a hot-house.; The hot-house was at a temperature of 211 degrees Fahrenheit.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Dr. Solander remained with Charles Blagden in a hot-house at 211 degrees Fahrenheit."
+  },
+  {
+    "id": "Novel-420f3886",
+    "question": "According to the historical narrative, what country did France grow to abhor following the events described?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "France grew to abhor England.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "France grew to abhor England."
+  },
+  {
+    "id": "Novel-06892ea0",
+    "question": "According to the narrative, where did Voltaire's actions have a negative impact?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Voltaire did harm in France.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Voltaire did harm in France."
+  },
+  {
+    "id": "Novel-219d2cb0",
+    "question": "What notable gardens are located in France as referenced in the discussion of solar heat utilization?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "France has Tuileries Gardens.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "France has Tuileries Gardens."
+  },
+  {
+    "id": "Novel-d5a2a39b",
+    "question": "About which country does Dr. D. J. Macgowan write in his report, as referenced in the discussion of skin-furrows and sign manuals?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Dr. D. J. Macgowan writes about China.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Dr. D. J. Macgowan writes about China."
+  },
+  {
+    "id": "Novel-2e96fdbb",
+    "question": "According to the botanical history provided, where was the Maidenhair tree, Gingkgo biloba, introduced?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Gingkgo biloba was introduced into England.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Gingkgo biloba was introduced into England."
+  },
+  {
+    "id": "Novel-dffcdcf8",
+    "question": "According to the instructions for surveying a true meridian, what equipment should a surveyor provide himself with to ensure accuracy?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "A surveyor should provide himself with a hand lantern.; A surveyor should provide himself with plumb bobs.; A surveyor should provide himself with stakes.; A surveyor should provide himself with a transit.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "A surveyor should provide himself with a hand lantern, plumb bobs, stakes, and a transit."
+  },
+  {
+    "id": "Novel-7e564d1e",
+    "question": "What feature does the telescope possess in the context of astronomical surveying as described in the narrative?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The telescope has a level.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The telescope has a level."
+  },
+  {
+    "id": "Novel-dc537cd7",
+    "question": "Within the apple jelly factory's operations, what roles does the jelly maker fulfill?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The jelly maker acts as an engineer.; The jelly maker acts as a fireman.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The jelly maker acts as both an engineer and a fireman."
+  },
+  {
+    "id": "Novel-af243069",
+    "question": "According to the discussion of engines in industrial settings, into what types are engines subdivided?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Engines are subdivided into horizontal engine.; Engines are subdivided into vertical engine.; Engines are subdivided into beam engine.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Engines are subdivided into horizontal engine, vertical engine, and beam engine."
+  },
+  {
+    "id": "Novel-0ad1bc85",
+    "question": "In what types of facilities are engines utilized according to the industrial context described in the text?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Engines are used in mills.; Engines are used in water-works.; Engines are used in factories.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Engines are used in mills, water-works, and factories."
+  },
+  {
+    "id": "Novel-cdd407be",
+    "question": "According to the description of mill construction, what key components does the mill have for its operation?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The mill has an engine house.; The mill has engines.; The mill has a tank.; The mill has boilers.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The mill has an engine house, engines, a tank, and boilers."
+  },
+  {
+    "id": "Novel-ccfe8840",
+    "question": "In the demonstration of solar heat utilization at the Tuileries Gardens, what energy source was used to print the Soleil Journal?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Soleil Journal is printed using solar heat.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Soleil Journal is printed using solar heat."
+  },
+  {
+    "id": "Novel-880faffb",
+    "question": "Within the context of optimizing steam power in a factory or mill, what arrangement does the engineer plan?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The engineer plans the arrangement of engines.; The engineer plans the arrangement of boilers.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The engineer plans the arrangement of engines and boilers."
+  },
+  {
+    "id": "Novel-f944ae15",
+    "question": "In the apple jelly factory's pressing operation, from what material is the press constructed?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The press is made of iron.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The press is made of iron."
+  },
+  {
+    "id": "Novel-db48e1e1",
+    "question": "The Black Range mentioned in the narrative is part of which larger mountain range in the context of the mining rush?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Black Range is part of the Mimbres Mountains.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Black Range is part of the Mimbres Mountains."
+  },
+  {
+    "id": "Novel-d184bb36",
+    "question": "Who were the notable individuals interested in the Ivanhoe mine during the mining excitement described in the text?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Senator Plumb was interested in the Ivanhoe mine.; Robert Ingersoll was interested in the Ivanhoe mine.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Senator Plumb and Robert Ingersoll were interested in Ivanhoe."
+  },
+  {
+    "id": "Novel-4e0348b9",
+    "question": "In which state is the Perche district, the site of the described mining rush, located?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Perche district is located in New Mexico.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Perche district is located in New Mexico."
+  },
+  {
+    "id": "Novel-35f5fbd3",
+    "question": "Who were reported to have bought the Solitaire mine following its discovery in the Perche district?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Mr. Wurtzbach was reported to have bought the Solitaire mine.; Governor Tabor was reported to have bought the Solitaire mine.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Mr. Wurtzbach and Governor Tabor were reported to have bought Solitaire."
+  },
+  {
+    "id": "Novel-f8d40959",
+    "question": "Where is the Robinson mine, referenced during the account of the mining excitement, located?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Robinson mine is located in Colorado.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Robinson mine is located in Colorado."
+  },
+  {
+    "id": "Novel-edb040bb",
+    "question": "According to the narrative about rare bird species, what is another name for the Ocellated Pheasant?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Ocellated Pheasant is also known as Rheinardius ocellatus.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Ocellated Pheasant is also known as Rheinardius ocellatus."
+  },
+  {
+    "id": "Novel-f034d77d",
+    "question": "In the described process for analyzing furnace gases, how is the burette used together with the rubber pump to fill it with gas, and what specific steps are taken during this procedure?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The burette is used during gas analysis.; The burette is used together with the rubber pump during gas analysis.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The burette is used together with the rubber pump during gas analysis."
+  },
+  {
+    "id": "Novel-14016ce3",
+    "question": "During the cider production process described in the novel, what function does cotton cloth serve when used in the cider press, and how does it compare to the traditional use of straw for making the cheese?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "In the cider production process, cotton cloth replaces straw.; Straw was previously used for cheese in the cider press.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "In the cider production process, cotton cloth replaces straw, which was previously used for cheese in the cider press."
+  },
+  {
+    "id": "Novel-5e530443",
+    "question": "In the apparatus for analyzing furnace gases, by what means is the gas reservoir physically connected to the burette, and what role does the rubber tube play in this connection?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The gas reservoir is connected to the burette by a rubber tube.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The gas reservoir is connected to the burette by a rubber tube."
+  },
+  {
+    "id": "Novel-a9a52704",
+    "question": "During the apple jelly manufacturing process described in Oswego County, New York, how are apple seeds separated from the pulp?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "During the apple jelly manufacturing process, the pulp floats away on the stream.; The apple seeds drop to the bottom of the troughs during the apple jelly manufacturing process.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "During the apple jelly manufacturing process, the pulp floats away on the stream while the apple seeds drop to the bottom of the troughs."
+  },
+  {
+    "id": "Novel-96508468",
+    "question": "In the design of Bilan's machine for compressing coal refuse into fuel, where exactly is the hopper positioned relative to the cast iron frame, and how does its placement facilitate the feeding of material to the moulding wheels?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The hopper is fixed at the upper part of the cast iron frame in Bilan's machine.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The hopper is fixed at the upper part of the cast iron frame in Bilan's machine."
+  },
+  {
+    "id": "Novel-23e6b6df",
+    "question": "In the process of revivifying bone-black as described in the novel, what material are the retorts constructed from, and what is their function within the furnace during the revivification process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The retorts are made of cast iron.; The retorts are used to revivify bone-black.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The retorts are made of cast iron and are used to revivify bone-black."
+  },
+  {
+    "id": "Novel-59ea36ca",
+    "question": "In Bilan's machine for manufacturing artificial fuel, how are the moulding wheels supported, and what mechanism sets these wheels in motion during operation?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The moulding wheels are supported by a cast iron frame.; The moulding wheels are set in motion by gear-wheels.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The moulding wheels are supported by a cast iron frame and are set in motion by gear-wheels."
+  },
+  {
+    "id": "Novel-166bcaa7",
+    "question": "In the operation of soaking pits for steel ingots, what is the composition of the gas that fills the pits during the soaking process, and which gases are identified as present according to the novel?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The gas used in the soaking pits is composed of hydrogen.; The gas used in the soaking pits is composed of carbonic oxide.; The gas used in the soaking pits is composed of nitrogen.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The gas used in the soaking pits is composed of hydrogen, carbonic oxide, and nitrogen."
+  },
+  {
+    "id": "Novel-a88065af",
+    "question": "According to the description of steel processing in soaking pits, how does the presence of gas in the soaking pits protect the steel ingots from oxidation, particularly regarding the exclusion of atmospheric air?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The gas in the soaking pits excludes atmospheric air.; The exclusion of atmospheric air protects the steel from oxidation.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The gas in the soaking pits excludes atmospheric air, thereby protecting the steel from oxidation."
+  },
+  {
+    "id": "Novel-54968017",
+    "question": "Within the novel's discussion of human nutrition and energy sources, which substances are mentioned as sources of energy, and what examples are given for sugars and fats?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Sugar is mentioned as a source of energy.; Fat is mentioned as a source of energy.; Cane-sugar is an example of sugar.; Milk-sugar is an example of sugar.; Suet is an example of fat.; Lard is an example of fat.; Oil is an example of fat.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Sugar and fat are mentioned as sources of energy; examples include cane-sugar and milk-sugar for sugar, and suet, lard, and oil for fat."
+  },
+  {
+    "id": "Novel-eb14d7c4",
+    "question": "In the context of the farmer's lime kiln described in the novel, why is coal specifically used as the fuel for the kiln, and what function does it serve in the operation of the kiln?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Coal is used in the kiln.; Coal serves as fuel for the kiln.; The kiln requires fuel to operate.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Coal is used in the kiln because it serves as fuel, which the kiln requires to operate."
+  },
+  {
+    "id": "Novel-f57e3ab2",
+    "question": "Why are apple jelly factories considered significant in Oswego County, New York, as discussed in the report by the New York Agricultural Society, and what distinguishes their presence or activity in this location?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Apple jelly factories are significant in Oswego County, New York.; Apple jelly factories are reported on by the New York Agricultural Society.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Apple jelly factories are significant because they are located in Oswego County and are reported on by the New York Agricultural Society."
+  },
+  {
+    "id": "Novel-5422531d",
+    "question": "In the apple jelly factory located near Mexico, New York, how is the saw mill operationally connected to the evaporating department, and what role does the boiler furnace play in linking these two processes?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The saw mill is connected to the boiler furnace.; The boiler furnace is connected to the evaporating department.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The saw mill is connected to the boiler furnace, which in turn is connected to the evaporating department."
+  },
+  {
+    "id": "Novel-b9f39886",
+    "question": "What is the connection between Salmon Creek and the saw mill in the apple jelly factory described in Oswego County, and how does the creek's proximity to Mexico contribute to the factory's operations?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Salmon Creek provides power for the saw mill.; Salmon Creek is located near Mexico.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Salmon Creek provides power for the saw mill and is located near Mexico."
+  },
+  {
+    "id": "Novel-92ed141f",
+    "question": "Which individuals participated in the experiments involving prolonged exposure to high temperatures in hot-houses and furnaces, and what were the circumstances of their involvement as described in the narrative?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Charles Blagden participated in experiments involving exposure to high temperatures.; Dr. Solander participated in experiments involving exposure to high temperatures.; Joseph Banks participated in experiments involving exposure to high temperatures.; A baker participated in experiments involving exposure to high temperatures.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Charles Blagden, Dr. Solander, Joseph Banks, and a baker participated in experiments involving exposure to high temperatures in hot-houses and furnaces."
+  },
+  {
+    "id": "Novel-04e9f25b",
+    "question": "How is the Soy bean described in the novel in terms of its international connections and notable individuals associated with its discussion or introduction?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Soy bean has been acclimatized in France.; The Soy bean has been acclimatized in Italy.; The Soy bean is used in China.; The Soy bean is used in Japan.; Prof. E. Kinch is associated with the discussion of the Soy bean.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Soy bean has been acclimatized in France and Italy, is used in China and Japan, and is mentioned by Prof. E. Kinch."
+  },
+  {
+    "id": "Novel-213bbcca",
+    "question": "According to the botanical discussion in the novel, what are the plant families of the Yucca tree and the Maidenhair tree, and how are these families related to other notable plants?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Yucca tree is part of the lily family.; The Maidenhair tree belongs to the Conifer family.; The Conifer family is closely allied to the Yew.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Yucca tree is part of the lily family, and the Maidenhair tree belongs to the Conifer family, which is closely allied to the Yew."
+  },
+  {
+    "id": "Novel-705f9e89",
+    "question": "Within the operations of the apple jelly factory described in Oswego County, what roles does the jelly maker perform regarding the machinery and planning of the mill?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The jelly maker acts as both an engineer and a fireman.; As an engineer, the jelly maker plans the arrangement of engines.; As an engineer, the jelly maker plans the arrangement of boilers.; As an engineer, the jelly maker plans the arrangement of accessories for transmission.; The jelly maker plans the arrangement of the mill.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The jelly maker acts as both an engineer and a fireman; as an engineer, he plans the arrangement of engines, boilers, their accessories for transmission, and the mill."
+  },
+  {
+    "id": "Novel-8779d729",
+    "question": "Why is a horizontal engine often preferred over a beam engine for use in a mill?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "A horizontal engine is often preferred over a beam engine.; A horizontal engine is more durable than a beam engine.; A horizontal engine involves a smaller outlay for the engine house compared to a beam engine.; A horizontal engine involves a smaller outlay for foundations compared to a beam engine.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "A horizontal engine is often preferred because it is more durable and involves a much smaller outlay for the engine house and foundations compared to a beam engine."
+  },
+  {
+    "id": "Novel-f7300f3c",
+    "question": "How is solar heat used in the printing process of the Soleil Journal?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Soleil Journal is printed using solar heat.; An apparatus is used to utilize solar heat in the printing process of the Soleil Journal.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Soleil Journal is printed using solar heat, which is utilized by an apparatus."
+  },
+  {
+    "id": "Novel-45173331",
+    "question": "What might explain the shared interest of Senator Plumb and Robert Ingersoll in the Ivanhoe mine?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Senator Plumb has an interest in the Ivanhoe mine.; Robert Ingersoll has an interest in the Ivanhoe mine.; The Ivanhoe mine is located in the Black Range.; The Black Range is part of the Mimbres Mountains.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Senator Plumb and Robert Ingersoll both had an interest in the Ivanhoe mine, which is located in the Black Range, part of the Mimbres Mountains."
+  },
+  {
+    "id": "Novel-86e095c3",
+    "question": "What is the process for revivifying bone-black after it is placed in the hopper?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Bone-black is dried in the drier.; Bone-black is revivified in the furnace.; Retorts are used for the revivification of bone-black.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Bone-black is dried in the drier, then revivified in the furnace, and retorts are used for the revivification of bone-black."
+  },
+  {
+    "id": "Novel-bba4febb",
+    "question": "What function does the elevator serve in the processing of bone-black?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The elevator takes in the wet black below.; The elevator carries the wet black up.; The elevator pours the wet black into the drier.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The elevator takes in the wet black below, carries it up, and pours it into the drier."
+  },
+  {
+    "id": "Novel-3074adfc",
+    "question": "What mechanism powers and sets in motion the moulding wheels in Bilan's machine?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The moulding wheels in Bilan's machine are set in motion by gear-wheels.; The gear-wheels are driven by endless screws.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The moulding wheels in Bilan's machine are set in motion by gear-wheels, which are themselves driven by endless screws."
+  },
+  {
+    "id": "Novel-a6f54f41",
+    "question": "What is the function of the gas released from the ingot in the soaking pits during steel processing?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The gas exudes from the ingot in the soaking pit.; The gas heats the chamber in the soaking pit.; The gas protects the steel from oxidation.; The gas excludes atmospheric air from the soaking pit.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The gas exudes from the ingot in the soaking pit, heating the chamber and protecting the steel from oxidation by excluding atmospheric air."
+  },
+  {
+    "id": "Novel-f8e45373",
+    "question": "How does the crane assist in handling ingots during processing?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The crane places the ingots into the soaking pits.; The crane swings the ingots round to the blooming mill for further processing.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The crane places the ingots into the soaking pits and later swings them round to the blooming mill for further processing."
+  },
+  {
+    "id": "Novel-da5c0829",
+    "question": "What happens to apple seeds during the processing of apples in the troughs?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Apple seeds are naturally separated from the pulp.; Apple seeds become disengaged and drop to the bottom of the troughs.; The apple seeds are collected from the bottom of the troughs.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Apple seeds are naturally separated from the pulp as they become disengaged and drop to the bottom of the troughs, where they are collected."
+  },
+  {
+    "id": "Novel-7344c996",
+    "question": "What role does the coke fire play in the furnace system?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The coke fire produces flames.; The flames heat the retorts.; The retorts are used to revivify bone-black.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The coke fire produces flames that heat the retorts, which are used to revivify bone-black."
+  },
+  {
+    "id": "Novel-e2f7fd6a",
+    "question": "What effect do the flames from the fire-place have within the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Flames heat the retorts.; Bone-black is revivified in the furnace.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Flames heat the retorts, in which bone-black is revivified in the furnace."
+  },
+  {
+    "id": "Novel-eddb6ee3",
+    "question": "What is the function and construction of the compartment in the baking chamber?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The compartment is part of the baking chamber.; The compartment is covered by slabs.; The slabs are formed from refractory clay.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The compartment, as part of the baking chamber, is covered by slabs formed from refractory clay."
+  },
+  {
+    "id": "Novel-a233fa05",
+    "question": "Describe the process by which energy or heat moves from the coke fire to the compartment in the baking chamber.",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The coke fire produces flames.; The flames heat the retorts.; The retorts are incased in blocks made of refractory clay.; The refractory clay forms slabs.; The slabs cover the compartment in the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The coke fire produces flames that heat the retorts, which are incased in blocks made of refractory clay; this clay forms slabs that cover the compartment, which is part of the baking chamber."
+  },
+  {
+    "id": "Novel-48fc691b",
+    "question": "How does the furnace design address the needs of the retorts used for revivifying bone-black?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The furnace heats retorts using flames from a coke fire.; The retorts are protected by being encased in blocks.; The blocks are made from refractory clay slabs.; The slabs cover the compartment.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The furnace heats retorts using flames from a coke fire while protecting them by encasing them in blocks made from refractory clay slabs covering the compartment."
+  },
+  {
+    "id": "Novel-19adbc46",
+    "question": "How is energy transferred within the furnace system leading to the revivification process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The coke fire produces flames.; The flames heat the retorts.; Bone-black is revivified in the retorts.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The coke fire produces flames that heat retorts, in which bone-black is revivified."
+  },
+  {
+    "id": "Novel-e4c114e1",
+    "question": "What materials are used to contain and cover the retorts in the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Blocks made of refractory clay contain the retorts.; Slabs cover the compartment in the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Blocks made of refractory clay contain the retorts, and slabs cover the compartment in the baking chamber."
+  },
+  {
+    "id": "Novel-3f47783a",
+    "question": "How are the fire-place, blocks, and baking chamber connected in the furnace system?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fire-place contains a coke fire.; The coke fire produces flames that heat the retorts.; The retorts are incased in blocks made of refractory clay.; Refractory clay forms blocks.; Slabs cover the compartment in the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The fire-place contains a coke fire that produces flames heating the retorts, which are incased in blocks made of refractory clay; refractory clay forms blocks, and slabs cover the compartment in the baking chamber."
+  },
+  {
+    "id": "Novel-d45df8c2",
+    "question": "How does the furnace system protect bone-black during the revivification process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Bone-black is revivified in retorts.; The retorts are incased in blocks made from refractory clay.; Slabs cover the compartment.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Bone-black is revivified in retorts that are incased in blocks made from refractory clay, and slabs cover the compartment."
+  },
+  {
+    "id": "Novel-2f39a6cc",
+    "question": "How is insulation achieved in the structure of the baking chamber?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Insulation is provided by slabs formed from refractory clay.; The slabs cover the compartment of the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Insulation is provided by slabs formed from refractory clay that cover the compartment of the baking chamber."
+  },
+  {
+    "id": "Novel-54cbf1ab",
+    "question": "What chain of components connects the fire-place to the baking chamber's compartment?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fire-place contains a coke fire.; The coke fire produces flames that heat retorts.; The retorts are incased in blocks made of refractory clay.; The refractory clay forms slabs that cover the compartment in the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The fire-place contains a coke fire that produces flames heating retorts, which are incased in blocks made of refractory clay; this clay forms slabs that cover the compartment in the baking chamber."
+  },
+  {
+    "id": "Novel-08e45f07",
+    "question": "How does the system design provide both heating and structural support for the retorts in the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Retorts are heated by flames from the coke fire.; Retorts are structurally supported by being incased in blocks made of refractory clay.; The blocks are covered by slabs.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Retorts are heated by flames from the coke fire and are structurally supported by being incased in blocks made of refractory clay slabs covering the compartment."
+  },
+  {
+    "id": "Novel-878d540c",
+    "question": "What is the connection between the source of flames and the coverage of the compartment containing the retorts?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Flames produced by the coke fire heat the retorts.; The retorts are incased in refractory clay blocks.; The blocks' material forms slabs that cover the compartment.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Flames produced by the coke fire heat the retorts, which are incased in refractory clay blocks; these blocks' material forms slabs that cover the compartment."
+  },
+  {
+    "id": "Novel-d2fa6c68",
+    "question": "How do multiple structural elements work together to house and protect the retorts in the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Retorts are housed in blocks made of refractory clay.; The blocks form slabs that cover the compartment in the baking chamber.; The blocks shield and support the retorts.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Retorts are housed in blocks made of refractory clay, which forms slabs covering the compartment in the baking chamber, together shielding and supporting them."
+  },
+  {
+    "id": "Novel-97cc2576",
+    "question": "How does the furnace's fire-place ultimately affect the compartment in the baking chamber?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fire-place contains a coke fire.; The coke fire produces flames that heat the retorts.; The retorts are inside blocks made of refractory clay.; The blocks form slabs that cover the compartment in the baking chamber.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The fire-place contains coke fire that produces flames heating retorts, which are inside blocks made of refractory clay forming slabs that cover the compartment in the baking chamber."
+  },
+  {
+    "id": "Novel-e551350b",
+    "question": "Explain how the furnace system provides both heating and insulation for the retorts.",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The retorts are heated by flames.; The retorts are insulated by being incased in blocks of refractory clay.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The retorts are heated by flames and insulated by being incased in blocks of refractory clay."
+  },
+  {
+    "id": "Novel-a107de31",
+    "question": "What series of containment and insulation steps occur from the retorts outward to the external structure of the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Retorts are incased in blocks of refractory clay.; The blocks form slabs that cover the drier.; The drier is part of the furnace.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Retorts are incased in blocks of refractory clay, which forms slabs that cover the drier, itself part of the furnace."
+  },
+  {
+    "id": "Novel-82a2e74e",
+    "question": "How do energy flow and protective materials contribute to the revivification process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Flames from coke fire heat the retorts for revivification.; Refractory clay blocks provide protection.; Refractory clay slabs provide insulation.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Flames from coke fire heat the retorts for revivification, while refractory clay blocks and slabs provide essential protection and insulation."
+  },
+  {
+    "id": "Novel-e7d45d38",
+    "question": "In what way does the refractory clay's transformation into blocks and slabs support the operational integrity of the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Refractory clay forms blocks and slabs.; The slabs cover the drier.; The drier is part of the furnace.; The slabs support the operational integrity of the furnace.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Refractory clay forms blocks and slabs; the slabs cover the drier, which is part of the furnace, supporting its operational integrity."
+  },
+  {
+    "id": "Novel-8cb461ed",
+    "question": "In the structural design of the Lime Kiln, how does the positioning of the hopper in relation to the cast iron frame facilitate the process of feeding material into the kiln?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The hopper is fixed at the upper part of the cast iron frame.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The hopper is fixed at the upper part of the cast iron frame."
+  },
+  {
+    "id": "Novel-60b3092a",
+    "question": "What apparatus is specifically identified as being used for revivifying bone-black in the described industrial system, according to the narrative?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Bone-black is revivified by retorts.; Bone-black is dried in a furnace.; The drier is part of the furnace.; Schreiber's apparatus is used for revivifying bone-black.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Bone-black is revivified using Schreiber's apparatus, a specialized system designed to restore animal charcoal to its original decolorizing power. In this industrial process, the bone-black is first treated in retorts and then dried within a furnace, where the drier forms an integral part of the furnace itself. Schreiber's apparatus orchestrates the entire revivification, ensuring that the bone-black is thoroughly cleansed of absorbed salts and insoluble compounds, and efficiently prepared for reuse in sugar refining."
+  },
+  {
+    "id": "Novel-83b86188",
+    "question": "In the analytical setup devised by Dr. Buente, what is the role of the burette, with which other apparatuses such as the aspirator and funnel system is it used, and who was responsible for its invention?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The burette is used with the aspirator.; The burette is part of the funnel system.; The burette was devised by Dr. Buente.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "In Dr. Buente's analytical setup, the burette plays a central role, working in concert with the aspirator and forming an essential part of the funnel system. This ingenious device, devised by Dr. Buente himself, allows for the precise collection and measurement of furnace gases. The burette is filled with gas through a carefully controlled process involving a three-way cock and a graduated section, while the aspirator and funnel facilitate the smooth transfer and absorption of gases, making the analysis both efficient and reliable."
+  },
+  {
+    "id": "Novel-f9a73f1e",
+    "question": "Within the context of the mining rush in southern New Mexico described in the novel, what is the relationship between the Solitaire property and the Perche district, and who were the individuals reported to have bonded the Solitaire property?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Solitaire property is located in the Perche district.; Mr. Wurtzbach and Governor Tabor were reported to have bonded the Solitaire property.; The Perche district does not rest solely on the Solitaire property.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Solitaire property, a promising mining location, lies within the bustling Perche district—a region teeming with prospectors and feverish hopes of fortune. Reports circulated that Mr. Wurtzbach and ex-Governor Tabor had bonded the Solitaire property, fueling excitement and speculation, though it was clarified that while the property was indeed bonded, it had not been outright purchased. Importantly, the Perche district’s mineral wealth is not confined to the Solitaire alone; rather, the district boasts a rich abundance of prospects scattered throughout its expanse, ensuring that its reputation does not rest solely on the fortunes of a single claim."
+  },
+  {
+    "id": "Novel-7f57b7b9",
+    "question": "As described in the narrative about the mining excitement in New Mexico, what is the geographical relationship between the Mimbres Mountains, the forks of the Perche River, and the location of the Perche district?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Mimbres Mountains are part of the Rocky Mountain range.; The Mimbres Mountains run parallel to the Rio Grande.; The forks of the Perche River are in the Mimbres Mountains.; The Perche district is located in New Mexico.; Hillsboro is located near the Perche River.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Mimbres Mountains are part of the Rocky Mountain range and run parallel to the Rio Grande; the forks of the Perche River are in the Mimbres Mountains. The Perche district is located in New Mexico. Hillsboro is located near the Perche River."
+  },
+  {
+    "id": "Novel-3dea6ece",
+    "question": "How are the hopper and the cast iron frame related in the context of the Lime Kiln?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The hopper is fixed at the upper part of the cast iron frame.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The hopper is securely fixed at the upper part of the cast iron frame, poised above the intricate arrangement of moulding wheels. It serves as the entry point for the paste, which is either shoveled or poured in by bucket and chain, allowing gravity and careful engineering to guide the material into the heart of the machine for further processing."
+  },
+  {
+    "id": "Novel-06ba718a",
+    "question": "According to the system detailed for revivifying bone-black, how is bone-black dried and what is the subsequent processing it undergoes within the furnace?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Bone-black is dried by a drier.; Bone-black is processed in a furnace.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "After being washed, the bone-black is first passed through an automatic drier—ingeniously formed by undulating pipes at the upper part of the furnace—where waste heat and combustion gases help drive off moisture through a series of steam vents. Once thoroughly dried, the bone-black descends into the furnace itself, where it undergoes revivification within cast-iron retorts, carefully heated and protected by refractory clay blocks to ensure even processing and prevent burning."
+  },
+  {
+    "id": "Novel-c01491e4",
+    "question": "In Schreiber's apparatus for revivifying bone-black, what function does the elevator serve in transporting the wet black during the processing sequence?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The elevator takes in the wet black below.; The elevator carries the wet black up.; The elevator pours the wet black into the drier.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The elevator serves as a crucial link in the processing sequence: it receives the wet black from below, then steadily lifts it upward, ensuring a smooth and continuous transfer. Upon reaching the upper part of the furnace, the elevator pours the wet black into the drier, allowing the material to move seamlessly from washing to drying without manual intervention."
+  },
+  {
+    "id": "Novel-64c2bdbe",
+    "question": "In the process of treating steel ingots using soaking pits, as described in the narrative, what role does gas play in filling the soaking pit and affecting the temperature of the ingot?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Gas fills the soaking pit.; The soaking pit raises the temperature of the ingot.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "During the soaking process, gas exudes from the steel ingot and gradually fills the soaking pit, creating an atmosphere that completely excludes outside air. This enveloping layer of gas not only prevents oxidation but also allows the heat retained in the refractory walls of the pit to be efficiently transferred to the ingot, gently raising its temperature and ensuring an even, controlled soak."
+  },
+  {
+    "id": "Novel-d76e4df9",
+    "question": "What mechanism is used to operate the moulding wheels?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The moulding wheels are set in motion by gear-wheels.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The moulding wheels are set in motion by a carefully engineered system of gear-wheels, which, driven by the machine's horizontal shaft and endless screws, transmit power through beveled pinions to ensure the four moulding wheels rotate in perfect synchrony. This precise mechanism allows the wheels to meet at exact points, compressing the paste into perfectly formed spheres with each revolution."
+  },
+  {
+    "id": "Novel-0fe6af86",
+    "question": "How does the Darlington Steel and Iron Company utilize soaking pits in its operations?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The Darlington Steel and Iron Company is treating ingots.; The Darlington Steel and Iron Company uses soaking pits.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The Darlington Steel and Iron Company is treating ingots using soaking pits."
+  },
+  {
+    "id": "Novel-6c832349",
+    "question": "What effect do the fan blades have on the movement of air?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fan imparts velocity to the air.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The fan imparts velocity to the air by driving it forward with its rotating blades, but the speed at which the air leaves the fan can never exceed the velocity of the fan tips themselves. In a well-designed fan, the air typically moves at about two-thirds the speed of the blade tips, creating a powerful current that is directly linked to the motion and shape of the blades."
+  },
+  {
+    "id": "Novel-0dc6b940",
+    "question": "What role does the pug-mill play in the manufacture of agglomerated artificial fuel, and how is superheated steam involved?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The pug-mill mixes grains.; The pug-mill has admitted superheated steam.",
+    "question_type": "Complex Reasoning",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The pug-mill serves as a crucial mixing chamber, where the grains—already blended with coal dust and pitch—are thoroughly combined. Superheated steam is then introduced into the pug-mill, transforming the mixture into a cohesive, plastic paste. This process ensures that the components are evenly distributed and that the resulting material has the right consistency for molding into artificial fuel."
+  },
+  {
+    "id": "Novel-8d17a0a2",
+    "question": "How are apple seeds separated and collected during the handling of pomace in apple jelly manufacturing, and what function do the troughs serve?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Apple seeds are saved by troughs.; Apple seeds drop to the bottom of the troughs.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "During the handling of pomace in the apple jelly manufacturing process, the apple seeds are separated and collected through a carefully designed system of large troughs. As the ground pomace is dropped into these troughs, a steady stream of water flows through them, carrying the lighter pulp away while the heavier seeds gradually become disengaged and sink to the bottom into still water. The troughs are occasionally agitated by raking, which helps to further free the seeds from the pulp. This succession of troughs ensures that nearly all the seeds are efficiently removed and collected, their value significant enough to cover the daily wages of the entire workforce."
+  },
+  {
+    "id": "Novel-09c69b60",
+    "question": "How are refractory clay slabs incorporated into the construction of the baking chamber in the furnace, and what is their structural significance?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Slabs formed from refractory clay cover a compartment.; The compartment is part of the baking chamber.; The integration of slabs and compartments forms layered protection and structure within the furnace.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "In the construction of the furnace for baking refractory products, slabs made from refractory clay are used to cover each compartment that forms part of the baking chamber. These slabs are not fixed in place, but can be displaced with the help of a small car running on a movable track, allowing for easy access to individual compartments as needed. This integration of removable clay slabs and compartmentalized chambers creates a layered system of protection, both insulating the chamber and contributing to the overall structural integrity of the furnace. The design ensures efficient heat retention and controlled access, reflecting a thoughtful approach to both durability and functionality."
+  },
+  {
+    "id": "Novel-ae8f12bc",
+    "question": "How does the furnace used for revivifying bone-black transfer energy to the retorts during operation?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The coke fire in the fire-place produces flames.; The flames heat the retorts.; The retorts revivify bone-black placed inside.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The process begins as the coke fire in the fire-place roars to life, its flames spreading throughout the fire chamber and directing themselves toward the bottom. These flames then divide, flowing to the right and left, and in their passage, they envelop the backs of the retorts with intense heat. This carefully channeled energy is what enables the retorts to reach the temperatures necessary for revivifying the bone-black placed within, setting the entire operation in motion."
+  },
+  {
+    "id": "Novel-4d9eff09",
+    "question": "How are the retorts contained and protected within the furnace for revivifying bone-black?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Retorts are encased in blocks made of refractory clay.; The refractory clay forms slabs.; The slabs cover the compartments inside the baking chamber.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The retorts, essential for the revivification process, are securely encased in superposed blocks crafted from refractory clay. This specialized clay is shaped into slabs that not only envelop the retorts but also form a protective covering over the compartments integral to the baking chamber. This layered containment ensures both the regular transmission of heat and the prevention of burning, maintaining the delicate balance required within the furnace."
+  },
+  {
+    "id": "Novel-ff93f23e",
+    "question": "How does the furnace design ensure the protection and functionality of the retorts during bone-black revivification?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Blocks made of refractory clay encase the retorts.; The clay forms slabs that cover the compartments.; The design protects the retorts during heating.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The retorts are carefully encased in superposed blocks of refractory clay, with these clay slabs forming a protective shell over the internal compartments. This design not only shields the retorts from the intense, potentially damaging heat of the furnace, but also ensures a more even and controlled transmission of heat. By regularizing the temperature and preventing direct exposure to flames, the refractory clay both safeguards the structural integrity of the retorts and enhances their functionality throughout the demanding revivification process."
+  },
+  {
+    "id": "Novel-f3bb58ba",
+    "question": "What are the respective functions of the fire-place and the drier in the furnace used for bone-black revivification?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The fire-place contains a coke fire.; The coke fire produces flames to heat the retorts.; The drier dries bone-black before it is revivified in the retorts.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Within the furnace, the fire-place serves as the heart of the operation, where a coke fire generates powerful flames that are channeled through the fire chamber to envelop and heat the retorts. This intense heat is essential for the revivification of the bone-black. Meanwhile, the drier, positioned above, plays a crucial preparatory role: as bone-black descends from the hopper, it first passes through the drier, where the heat—carefully distributed by internal plates—removes moisture before the material enters the retorts. Together, the fire-place and drier work in tandem, ensuring that the bone-black is both properly dried and then thoroughly heated for effective revivification."
+  },
+  {
+    "id": "Novel-7193a2bb",
+    "question": "In the operation of the furnace system for revivifying bone-black, how does the design ensure both the necessary heating and the containment of the retorts and bone-black during the revivification process?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The furnace heats retorts using flames from a coke fire.; The structure of refractory clay blocks ensures the retorts are safely contained.; The structure of refractory clay blocks ensures the bone-black is safely contained.; The heating and containment occur during the revivification process.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "The furnace’s design masterfully balances the intense heat required for revivifying bone-black with the need for secure containment. Flames from a coke fire in the fire-place are channeled through a carefully constructed fire chamber, their heat enveloping the retorts where the bone-black is processed. Surrounding these retorts, superposed blocks of refractory clay—meticulously arranged and held in place by crosspieces—form a protective barrier. This structure not only regularizes the transmission of heat, preventing dangerous hot spots and burning, but also ensures that both the retorts and the bone-black within remain safely encased throughout the demanding revivification process."
+  },
+  {
+    "id": "Novel-a531cddb",
+    "question": "Considering the furnace used for transforming bone-black, how does the system coordinate the different stages of preparation and chemical transformation within the same apparatus?",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "Bone-black undergoes initial drying in the furnace's drier.; Bone-black is subsequently revivified in heated retorts.; The system ensures bone-black is prepared within the same apparatus.; The system ensures bone-black is chemically transformed within the same apparatus.",
+    "question_type": "Contextual Summarize",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Within the furnace, the process unfolds in a seamless sequence: bone-black, still damp from washing, first enters the automatic drier at the upper part of the apparatus. Here, heated currents—guided through undulating pipes and broken by internal plates—gently but thoroughly dry the material, allowing steam to escape through carefully placed apertures. Once dried, the bone-black descends into the heated retorts below, where it is subjected to the intense, regulated heat necessary for its chemical revivification. This coordinated interplay between drying and revivification within a single, integrated system ensures that the bone-black is not only fully prepared but also transformed, all within the protective and efficient confines of the same apparatus."
+  },
+  {
+    "id": "Novel-4cec3ccd",
+    "question": "Imagine you are a retort inside the baking chamber. Narrate your experience as you are heated by flames and participate in the revivification of bone-black.",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The retort is encased in blocks of refractory clay.; The retort feels waves of heat from flames produced by the coke fire.; Gases descend into the furnace from the air above.; The temperature of the retort rises during the process.; The retort works on revivifying the bone-black inside it.; The retort is part of an intricate system.; The slabs above the retort cover the drier compartment.; The covering of the drier compartment ensures the process inside remains undisturbed.",
+    "question_type": "Creative Generation",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Encased in sturdy blocks of refractory clay, I, the retort, feel the relentless waves of heat radiating from the coke fire below. The flames surge through the fire chamber, splitting and curling around my back, their energy seeping into my very core. Above me, the air shimmers with rising gases, which descend into the furnace, swirling and mingling as my temperature climbs. Within my chamber, the bone-black stirs, and I sense the transformation beginning—the revivification, as the old black is renewed by the heat I hold. I am but one part of a complex, harmonious system: slabs and blocks shield me, while above, the drier compartment is carefully covered, its process undisturbed. Together, we orchestrate the journey of the bone-black, from the hopper above, through my heated embrace, and onward to the cooling pipes, where it will emerge, changed and ready for the world beyond."
+  },
+  {
+    "id": "Novel-cdc64783",
+    "question": "Rewrite the process as a diary entry from the point of view of the compartment in the baking chamber, describing what happens above and inside it.",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The slabs formed from refractory clay cover the compartment.; The slabs seal the compartment from above.; The compartment cradles the retorts.; The retorts hold bone-black for revivification.; Flames from the coke fire reach the retorts.; The flames set the whole process in motion.; Blocks made from clay keep everything insulated.; The compartment is part of the baking chamber.",
+    "question_type": "Creative Generation",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "Diary Entry — Today, as dawn broke, the heavy slabs of refractory clay were gently set atop me, sealing me in a familiar embrace of darkness and warmth. Above, I could sense the careful movements of the small car as it shifted the covers, preparing me for another cycle. Within my walls, I cradled the retorts, each one filled with bone-black awaiting its transformation. Soon, the deep roar of the coke fire below sent waves of heat coursing upward, licking the retorts and setting the revivification into motion. The flames danced and flickered, their energy pulsing through my core, while the thick blocks of the finest clay around me held the heat close, keeping every precious degree within. I felt the weight and purpose of my role—at the very heart of the baking chamber, I am both guardian and witness to the alchemy that unfolds inside me."
+  },
+  {
+    "id": "Novel-54008599",
+    "question": "Imagine you are a bone-black particle. Narrate your feelings and the stages you go through inside the furnace system.",
+    "source": "Novel-8559",
+    "context": [],
+    "evidence": "The bone-black particle first passes through the drier.; The bone-black particle loses every trace of moisture in the drier.; The bone-black particle is placed inside a retort.; The retort is heated by flames from the coke fire below.; The bone-black particle is encased within blocks of refractory clay.; The bone-black particle is protected by slabs.; The bone-black particle feels intense heat during revivification.; The process takes place inside a tightly-sealed compartment.; The compartment is deep within the baking chamber.; The process is intense, but the bone-black particle emerges renewed.",
+    "question_type": "Creative Generation",
+    "generated_answer": "Sorry, I'm not able to provide an answer to that question.",
+    "ground_truth": "As a particle of bone-black, I first pass through the drier, losing every trace of moisture. Then, I am placed inside a retort, which is heated by flames from the coke fire below. Encased within blocks of refractory clay and protected by slabs, I feel the intense heat as I am revivified. All of this takes place inside a tightly-sealed compartment, deep within the baking chamber. The process is intense, but I emerge renewed."
+  }
+]
