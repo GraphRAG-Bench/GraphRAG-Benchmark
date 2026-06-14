@@ -221,7 +221,8 @@ async def calculate_factuality(
     response = await llm.ainvoke(prompt, config={"callbacks": callbacks})
     
     try:
-        classification = ClassificationWithReason(**json.loads(response.content))
+        parsed = await JSONHandler().parse_with_fallbacks(response.content)
+        classification = ClassificationWithReason(**parsed)
         tp = len(classification.TP)
         fp = len(classification.FP)
         fn = len(classification.FN)
