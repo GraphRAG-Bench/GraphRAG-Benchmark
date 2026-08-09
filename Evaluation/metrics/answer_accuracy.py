@@ -1,7 +1,7 @@
 import asyncio
 import json
 import numpy as np
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 from typing import List, Dict, Tuple, Optional
 from langchain_core.language_models import BaseLanguageModel
 import re
@@ -219,9 +219,15 @@ async def calculate_factuality(
         ground_truth=json.dumps(gt_stmts)
     )
     response = await llm.ainvoke(prompt, config={"callbacks": callbacks})
-    
     try:
-        classification = ClassificationWithReason(**json.loads(response.content))
+        #Handle formatting errors from api
+        parsed = json.loads(response.content)
+        for key in ("TP", "FP", "FN"):
+            parsed[key] = [
+                {"statement": item, "reason": ""} if isinstance(item, str) else item
+                for item in parsed.get(key, [])
+            ]
+        classification = ClassificationWithReason(**parsed)
         tp = len(classification.TP)
         fp = len(classification.FP)
         fn = len(classification.FN)

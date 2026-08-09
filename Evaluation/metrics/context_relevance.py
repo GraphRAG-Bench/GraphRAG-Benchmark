@@ -100,7 +100,8 @@ async def _get_llm_rating(
                 callbacks=callbacks
             )
             return _normalize_rating(parsed)
-        except Exception:
+        except Exception as e:
+            print(f"[context_relevance] LLM call failed: {e}")
             continue
 
     return None

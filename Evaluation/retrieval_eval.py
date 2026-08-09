@@ -3,6 +3,8 @@ import argparse
 import json
 import numpy as np
 import os
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+os.environ["HF_DATASETS_OFFLINE"] = "1"
 from typing import Dict, List, Any
 from langchain_core.language_models import BaseLanguageModel
 from langchain_core.embeddings import Embeddings
@@ -38,10 +40,10 @@ async def evaluate_dataset(
     total_samples = len(questions)
     print(f"\nStarting evaluation of {total_samples} samples...")
     
-    semaphore = asyncio.Semaphore(max_concurrent)
-    
-    async def evaluate_with_semaphore(i):
-        async with semaphore:
+    completed = 0
+
+    for i in range(total_samples):
+        try:
             sample_metrics = await evaluate_sample(
                 question=questions[i],
                 contexts=contexts_list[i],
@@ -49,38 +51,22 @@ async def evaluate_dataset(
                 llm=llm,
                 embeddings=embeddings
             )
-            if detailed_output:
-                return {
+            if detailed_output and detailed_results is not None:
+                result = {
                     "id": ids[i],
                     "question": questions[i],
                     "contexts": contexts_list[i],
                     "evidences": evidences[i],
                     "metrics": sample_metrics
                 }
-            return sample_metrics
-
-    tasks = [evaluate_with_semaphore(i) for i in range(total_samples)]
-    sample_results = []
-    completed = 0
-    
-    for future in asyncio.as_completed(tasks):
-        try:
-            result = await future
-            if detailed_output and detailed_results is not None:
                 detailed_results.append(result)
-                # metrics aggregation (guard types for linters)
-                if isinstance(result, dict):
-                    metrics_dict = result.get("metrics")
-                    if isinstance(metrics_dict, dict):
-                        for metric, score in metrics_dict.items():
-                            if isinstance(score, (int, float)) and not np.isnan(score):
-                                results[metric].append(score)
+                for metric, score in sample_metrics.items():
+                    if isinstance(score, (int, float)) and not np.isnan(score):
+                        results[metric].append(score)
             else:
-                sample_results.append(result)
-                if isinstance(result, dict):
-                    for metric, score in result.items():
-                        if isinstance(score, (int, float)) and not np.isnan(score):
-                            results[metric].append(score)
+                for metric, score in sample_metrics.items():
+                    if isinstance(score, (int, float)) and not np.isnan(score):
+                        results[metric].append(score)
             completed += 1
             print(f"✅ Completed sample {completed}/{total_samples} - {(completed/total_samples)*100:.1f}%")
         except Exception as e:
@@ -110,11 +96,8 @@ async def evaluate_sample(
 ) -> Dict[str, float]:
     """Evaluate retrieval metrics for a single sample"""
     # Evaluate both metrics in parallel
-    relevance_task = compute_context_relevance(question, contexts, llm)
-    recall_task = compute_evidence_recall(question, contexts, evidences, llm)
-    
-    # Wait for both tasks to complete
-    relevance_score, recall_score = await asyncio.gather(relevance_task, recall_task)
+    relevance_score = await compute_context_relevance(question, contexts, llm)
+    recall_score = await compute_evidence_recall(question, contexts, evidences, llm)
 
     print(f"Relevance Score: {relevance_score}, Recall Score: {recall_score}")
 
@@ -132,6 +115,7 @@ async def main(args: argparse.Namespace):
         
         # Initialize models
         # Wrap API key in SecretStr to satisfy type hints
+        import httpx
         from pydantic import SecretStr
         api_key = os.getenv("LLM_API_KEY")
         if not api_key:
@@ -143,6 +127,8 @@ async def main(args: argparse.Namespace):
             temperature=0.0,
             max_retries=3,
             timeout=30,
+            http_async_client=httpx.AsyncClient(verify=False),
+            http_client=httpx.Client(verify=False),
             model_kwargs={
                 "top_p": 1,
                 "seed": SEED,
@@ -177,7 +163,7 @@ async def main(args: argparse.Namespace):
 
     # Load evaluation data
     print(f"Loading evaluation data from {args.data_file}...")
-    with open(args.data_file, 'r') as f:
+    with open(args.data_file, 'r', encoding='utf-8') as f:
         file_data = json.load(f)  # List of question items
     
     # Group data by question type

@@ -3,6 +3,9 @@ import argparse
 import json
 import numpy as np
 import os
+import time
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+os.environ["HF_DATASETS_OFFLINE"] = "1"
 from typing import Dict, List, Tuple, Any
 from langchain_core.language_models import BaseLanguageModel
 from langchain_core.embeddings import Embeddings
@@ -147,10 +150,48 @@ async def main(args: argparse.Namespace):
     
         # Initialize the model
         # Wrap API key in SecretStr to satisfy type hints
+        import httpx
         from pydantic import SecretStr
         api_key = os.getenv("LLM_API_KEY")
         if not api_key:
             raise ValueError("LLM_API_KEY environment variable is not set")
+
+        # Never store Set-Cookie from Cloudflare so the outgoing Cookie header
+        # can't grow over a long run and trip 431 request_headers_too_large.
+        class _NoStoreCookies(httpx.Cookies):
+            def extract_cookies(self, response):  # noqa: D401
+                pass
+
+        # The OpenAI SDK does not retry 431, so retry it at the transport layer.
+        # Helps when the 431 is sporadic (flaky edge node / refreshing proxy token);
+        # a genuinely oversized header would just exhaust the attempts.
+        _RETRY_CODES = {431}
+        _MAX_431_ATTEMPTS = 10
+
+        class _RetryTransport(httpx.HTTPTransport):
+            def handle_request(self, request):
+                for attempt in range(_MAX_431_ATTEMPTS):
+                    resp = super().handle_request(request)
+                    if resp.status_code not in _RETRY_CODES or attempt == _MAX_431_ATTEMPTS - 1:
+                        return resp
+                    resp.read(); resp.close()
+                    print(f"🔄 431 received, retrying request "
+                          f"(attempt {attempt + 1}/{_MAX_431_ATTEMPTS})...")
+                    time.sleep(min(2 ** attempt, 8))
+                return resp  # unreachable, satisfies type checkers
+
+        class _AsyncRetryTransport(httpx.AsyncHTTPTransport):
+            async def handle_async_request(self, request):
+                for attempt in range(_MAX_431_ATTEMPTS):
+                    resp = await super().handle_async_request(request)
+                    if resp.status_code not in _RETRY_CODES or attempt == _MAX_431_ATTEMPTS - 1:
+                        return resp
+                    await resp.aread(); await resp.aclose()
+                    print(f"🔄 431 received, retrying request "
+                          f"(attempt {attempt + 1}/{_MAX_431_ATTEMPTS})...")
+                    await asyncio.sleep(min(2 ** attempt, 8))
+                return resp  # unreachable, satisfies type checkers
+
         llm = ChatOpenAI(
             model=args.model,
             base_url=args.base_url,
@@ -158,6 +199,14 @@ async def main(args: argparse.Namespace):
             temperature=0.0,
             max_retries=3,
             timeout=30,
+            http_async_client=httpx.AsyncClient(
+                cookies=_NoStoreCookies(),
+                transport=_AsyncRetryTransport(verify=False, trust_env=True),
+            ),
+            http_client=httpx.Client(
+                cookies=_NoStoreCookies(),
+                transport=_RetryTransport(verify=False, trust_env=True),
+            ),
             model_kwargs={
                 "top_p": 1,
                 "seed": SEED,
@@ -191,7 +240,7 @@ async def main(args: argparse.Namespace):
 
     # Load evaluation data
     print(f"Loading evaluation data from {args.data_file}...")
-    with open(args.data_file, 'r') as f:
+    with open(args.data_file, 'r', encoding="utf-8") as f:
         file_data = json.load(f)  # Now a list of question items
     
     # Define the evaluation metrics for each question type

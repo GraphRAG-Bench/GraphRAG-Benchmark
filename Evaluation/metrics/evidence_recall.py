@@ -109,7 +109,8 @@ async def _get_classifications(
                 callbacks=callbacks
             )
             return _validate_classifications(classifications)
-        except Exception:
+        except Exception as e:
+            print(f"[evidence_recall] LLM call failed: {e}")
             continue
     return []
 
